@@ -10,7 +10,7 @@ sudo zypper install libusb-1_0-devel
 sudo zypper install gnuradio gnuradio-devel 
 sudo zypper install libboost_filesystem1_66_0-devel libboost_system1_66_0-devel libboost_thread1_66_0-devel libboost_date_time1_66_0-devel
 sudo zypper install python-devel swig
-sudo zypper installl bison flex 
+sudo zypper install bison flex 
 ```
 
 ## Build for openSUSE leap 15.0
